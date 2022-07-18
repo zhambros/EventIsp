@@ -6,9 +6,9 @@ import java.sql.DriverManager;
 public class DBConnection {
   public static Connection createConnection() {
     Connection con = null;
-    String url = "jdbc:mysql://localhost:3306/event_management_system";
-    String username = "root";
-    String password = "";
+    String url = "jdbc:mysql://localhost:3306/heroku_10248fa359e6e82";
+    String username = "b848aaa4db1172";
+    String password = "5e845f03";
 
     try {
       try {
