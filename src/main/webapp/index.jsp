@@ -126,7 +126,7 @@
 
       <main role="main" class="inner cover">
         <h1 class="cover-heading">Welcome</h1>
-        <p class="lead">To Home Page Of <b>My Masjid</b> - An Event Management System Made Specially For Mosques!</p>
+        <p class="lead">To Home Page Of <b>My Masjid</b> - An Event Management System Made Specially For Mosques !</p>
       </main>
 
       <footer class="mastfoot mt-auto">
